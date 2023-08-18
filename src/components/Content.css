@@ -1,0 +1,36 @@
+content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 64px;
+  color: blue;
+  padding: 10px;
+  text-transform: uppercase;
+  margin: auto;
+}
+
+p {
+  color: red;
+  font-size: 40px;
+  padding: 10px;
+  margin: auto;
+}
+
+.input_ {
+  width: 200px;
+  border-color: black;
+  border-style: solid;
+  padding: 10px;
+  margin: 10px;
+}
+
+.button_ {
+  font-size: large;
+  padding: 10px;
+  margin: 10px;
+}
