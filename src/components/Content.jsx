@@ -46,7 +46,7 @@ function Content() {
         <button className="button_" id="btnEl" onClick={calculateAge}>
           Calculate Age
         </button>
-        <h2>{age}</h2>
+        <h2></h2>
       </content>
     </>
   );
